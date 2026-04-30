@@ -3,6 +3,3 @@
 
  # Descreva o problema que a sua equipe pretende ajudar a resolver/mitigar:
   - _A falta de produtividade na execução de tarefas!_
-
-
-
