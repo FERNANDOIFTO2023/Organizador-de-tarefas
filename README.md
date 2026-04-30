@@ -1,2 +1,2 @@
 # Organizador de tarefas
-Programa de organizaqção de tarefas para melhorar as tarefas
+Programa de organização de tarefas para melhorar as tarefas
